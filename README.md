@@ -15,9 +15,10 @@ As a personal project I've started a XCode project, using Swift 5.... to make a 
 different ways to create note objects, either by drawing out shapes, or by calculation, or by whatever means.
 
 Why not use MAX MSP? This is a rectified question, because it's a great shell around the CSound-core.
-Three reasons: It doesn't exactly do what I want it to do
-               While working on this it stimulates me to be more creative and come up with more uses of what I'm intending
-               I'm stubborn and want to do several things MY way.
+Three reasons: 
+ 1/ It doesn't exactly do what I want it to do.
+ 2/ While working on this it stimulates me to be more creative and come up with more uses of what I'm intending.
+ 3/ I'm stubborn and want to do several things MY way.
                
  Will I ever be able to make use of what I'm cooking up? I don't know. I sincerely hope so. It all depends on how fast I develop as a
  Swift/Mac programmer and evenly important is how much can I restrict myself.
